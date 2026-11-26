@@ -1,0 +1,8 @@
+{
+  "name": "rega-panel",
+  "private": true,
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "pg": "^8.16.0"
+  }
+}
